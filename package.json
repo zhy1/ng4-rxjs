@@ -1,5 +1,6 @@
 {
-  "name": "ng2-app",
+  "name": "gs-robot-info-ng4",
+  "description": "ng4+rxjs",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
